@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yorb1431&label=Profile%20views&color=0e75b6&style=flat" alt="yorb1431" /> </p>
 
-- 🔭 I’m currently working on: **My Portfolio**
+🚀 About Me
 
-- 🌱 I’m currently learning **More About Cybersecurity**
+🔭 I’m currently working on my portfolio
 
-- 👯 I’m looking to collaborate on: **Freelance Project**
+🌱 I’m learning more about cybersecurity
 
-- 📫 How to reach me: **SystemPoint-official@proton.me**
+👯 I’m open to freelance projects and collaborations
 
-- ⚡ Fun fact **My Keyboard Is Broken 😒**
+📫 Reach me at SystemPoint-official@proton.me
+
+⚡ Fun fact: My keyboard is broken... 😒
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
