@@ -15,7 +15,9 @@ education:
 fields_of_interest:
   - "Cybersecurity"
       - "Pentesting"
-  - "Back-end Development"
+      - "Risk Management"
+      - "Newbie in Red Team"
+  - "Front-end Development"
 hobbies:
   - "Gaming"
   - "Create small code projects"
