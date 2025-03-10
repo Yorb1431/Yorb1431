@@ -16,7 +16,7 @@ fields_of_interest:
   - "Cybersecurity"
       - "Pentesting"
       - "Risk Management"
-      - "Newbie in Red Team"
+      - "Newbie in Green Hat team"
   - "Front-end Development"
 hobbies:
   - "Gaming"
